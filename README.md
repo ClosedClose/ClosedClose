@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClosedClose
 - 👀 I’m interested in sysadmin, win/linux, python
-- 🌱 I’m currently learning python XD
+- 🐍 I’m currently learning python XD
 - 📫 closedclose@ya.ru
 
 <!---
