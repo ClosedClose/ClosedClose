@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClosedClose
 - 👀 I’m interested in sysadmin, win/linux, python
-- 🐍 Lazycoding in Python
+- 🐍 Lazycoding on Python
 - 📫 closedclose@ya.ru
 
 <!---
